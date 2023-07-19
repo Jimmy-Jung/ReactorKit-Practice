@@ -1,5 +1,5 @@
 # ReactorKit-Practice
-ReactorKit + RxSwift 기능 학습
+ReactorKit 기능 학습
 
 # 👉 ReactorKit 개념
 
