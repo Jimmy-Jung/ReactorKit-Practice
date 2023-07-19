@@ -3,7 +3,7 @@ ReactorKit 기능 학습
 
 # 👉 ReactorKit 개념
 
-https://cloud.githubusercontent.com/assets/931655/25073432/a91c1688-2321-11e7-8f04-bf91031a09dd.png![image](https://github.com/Jimmy-Jung/ReactorKit-Practice/assets/115251866/a3ffa7fe-87e4-44e1-9329-3513db16b8fa)
+<img width="657" alt="image" src="https://github.com/Jimmy-Jung/ReactorKit-Practice/assets/115251866/ce787d91-2cc0-4b43-8ac1-f6a0d1c4bf30">
 
 
 ReactorKit은 RxSwift를 기반으로 한 iOS 애플리케이션 아키텍처 패턴 중 하나로, View, ViewModel, Reactor로 구성됩니다.
